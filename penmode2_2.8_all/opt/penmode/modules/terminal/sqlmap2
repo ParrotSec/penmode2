@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mate-terminal -t "PenMode sqlmap" -e "bash -c 'sqlmap -g $dork;bash'"

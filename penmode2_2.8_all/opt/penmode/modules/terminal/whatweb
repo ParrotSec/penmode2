@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mate-terminal -t "PenMode whatweb" -e "bash -c 'whatweb -v $TARGET;bash'"

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mate-terminal -t "PenMode dnsenum" -e "bash -c 'dnsenum $TARGET;bash'"

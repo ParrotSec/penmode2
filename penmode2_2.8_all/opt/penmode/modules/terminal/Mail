@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mate-terminal -t "PenMode dmitry" -e "bash -c 'dmitry -e $TARGET -o /opt/penmode/output/$TARGET-mail.txt;bash'"

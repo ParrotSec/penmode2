@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mate-terminal -t "xsser" -e "bash -c 'xsser -i $txta --auto --timeout $timeout --threads $threads --delay $delay --Xsa --Xsr --Coo --Doo -s --verbose --Dos --short tinyurl;bash'"

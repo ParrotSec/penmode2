@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mate-terminal -t "PenMode slowloris" -e "bash -c '/opt/penmode/modules/slowloris.pl -dns $IP -port $PORT -timeout $timeout -num $num;bash'"

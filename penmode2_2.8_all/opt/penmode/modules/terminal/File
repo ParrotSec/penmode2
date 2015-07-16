@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mate-terminal -t "PenMode uniscan" -e "bash -c 'uniscan -f $unitxt -bqweds;bash'"

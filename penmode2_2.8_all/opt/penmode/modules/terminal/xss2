@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mate-terminal  -t "xsser" -e "bash -c 'xsser -u $target --auto;bash'"

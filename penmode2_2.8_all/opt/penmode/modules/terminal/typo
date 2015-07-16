@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mate-terminal -t "PenMode typo" -e "bash -c '/opt/penmode/modules/utility/typo3.py http://$TARGET;bash'"

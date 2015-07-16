@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mate-terminal -t "PenMode cava links" -e "bash -c '/opt/penmode/modules/utility/cava_links.sh B;bash'"

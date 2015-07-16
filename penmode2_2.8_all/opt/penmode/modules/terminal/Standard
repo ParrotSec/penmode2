@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mate-terminal -t "PenMode nikto" -e "bash -c 'nikto -h $TARGET -f htm -o /opt/penmode/output/standard_nikto.html;bash'"

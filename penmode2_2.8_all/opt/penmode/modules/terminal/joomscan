@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mate-terminal -t "PenMode joomscan" -e "bash -c 'joomscan -u $TARGET;bash'"

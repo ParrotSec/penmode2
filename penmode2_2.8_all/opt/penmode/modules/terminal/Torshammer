@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mate-terminal -t "PenMode triade" -e "bash -c '/opt/penmode/modules/torshammer/torshammer.py -t $targetip -r $threads -p $port;bash'"

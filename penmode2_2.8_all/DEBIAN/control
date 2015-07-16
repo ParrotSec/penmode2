@@ -1,0 +1,12 @@
+Package: penmode2
+Version: 2.8
+Architecture: all
+Maintainer: Lorenzo EclipseSpark Faletra <eclipse@frozenbox.org>
+Depends: zenity, uniscan, nikto, dmitry, wpscan, joomscan, sqlmap, xsser, anonsurf, gtkd, lynx
+Recommends: criptator
+Section: Programming
+Priority: optional
+Description: PenMode 2 - Pentesting automation toolkit - Frozenbox edition
+	this package includes PenMode2, the most advanced penetesting automation toolkit.
+
+

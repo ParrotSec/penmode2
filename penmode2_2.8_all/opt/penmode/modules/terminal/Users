@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mate-terminal -t "PenMode wpscan" -e "bash -c 'wpscan --url $TARGET --enumerate u;bash'"
