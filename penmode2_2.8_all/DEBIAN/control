@@ -1,5 +1,5 @@
 Package: penmode2
-Version: 2.8
+Version: 2.8.1
 Architecture: all
 Maintainer: Lorenzo EclipseSpark Faletra <eclipse@frozenbox.org>
 Depends: zenity, uniscan, nikto, dmitry, wpscan, joomscan, sqlmap, xsser, anonsurf, gtkd, lynx

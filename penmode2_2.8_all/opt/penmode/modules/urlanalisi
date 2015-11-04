@@ -42,6 +42,6 @@ echo -e "${stream//\%/\x}" >> temp.txt
 done
 sort temp.txt | uniq > '/opt/penmode/output/url.txt'
 rm temp.txt
-echo" "
+echo " "
 head '/opt/penmode/output/url.txt'
 
